@@ -1,0 +1,8 @@
+:root {
+    --docsifytabs-border-color: #ededed;
+    --docsifytabs-tab-highlight-color: #42b983;
+  }
+.bold{
+    font-size: 18px;
+    font-weight: bold;
+}
